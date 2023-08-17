@@ -3,7 +3,7 @@
 ## Attention！
 Vision 1.0 needs to install Matlab firstly. After Vision 1.0, Runtime is required to install firstly.
 
-By the way, Runtime should be install at C:Program files//MATLAB.
+By the way, Runtime should be installed at C:Program files//MATLAB.
 
 Vision 1.0: SiPM Signal Analysis Program.mlappinstaller
 
