@@ -11,7 +11,7 @@ Vision 2.0: SSAP2.0installer.exe
 
 Vision 2.5: SSAP2.5installer.exe
 
-## statement
+## Statement
 
 There are some fatal bugs in Vision 1.0 & Vision 2.0. I strongly recommand all users to install the lastest SSAP.  
 
